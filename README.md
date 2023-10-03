@@ -144,4 +144,7 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
+## First extra credit in screenshots folder
+## Second extra credit:
+Animator duration scale in Android developer settings is a feature that controls the speed of system-wide animations. By adjusting this setting from 1x to 0.5x, you make the animations run at twice the speed, effectively making them quicker and more responsive. You can even turn animations off completely, but that might feel jarring. Personally, I think I'll definitely use this feature during class this quarter, especially when using an emulator. Speeding up animations can enhance my workflow and make testing and debugging on the emulator more efficient. It's a handy tool to have in my developer toolkit, allowing me to tailor the user experience for smoother and faster interactions while working on Android apps.
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
